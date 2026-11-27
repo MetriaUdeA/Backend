@@ -1,0 +1,29 @@
+{
+  "fuente": "https://www.metrodemedellin.gov.co/usuarios#tarifas",
+  "fechaRevision": "2026-11-26",
+  "entradas": [
+    {"titulo":{"es":"Integraciones 1 a 4 · Frecuente","en":"Integrations 1–4 · Frequent"},"detalle":{"es":"Consulta en la fuente qué combinaciones aplican.","en":"Check the source for eligible combinations."},"valor":3820,"moneda":"COP"},
+    {"titulo":{"es":"Integraciones 1 a 4 · Adulto mayor","en":"Integrations 1–4 · Older adult"},"detalle":{"es":"Sujeta a requisitos del perfil.","en":"Subject to profile eligibility."},"valor":3330,"moneda":"COP"},
+    {"titulo":{"es":"Integraciones 1 a 4 · Estudiantil","en":"Integrations 1–4 · Student"},"detalle":{"es":"Sujeta a requisitos del perfil.","en":"Subject to profile eligibility."},"valor":1600,"moneda":"COP"},
+    {"titulo":{"es":"Integraciones 1 a 4 · Persona con discapacidad","en":"Integrations 1–4 · Person with a disability"},"detalle":{"es":"Sujeta a requisitos del perfil.","en":"Subject to profile eligibility."},"valor":2720,"moneda":"COP"},
+    {"id":"RED_EVENTUAL","titulo":{"es":"Integraciones 1 a 4 · Al portador y eventual","en":"Integrations 1–4 · Bearer and occasional"},"detalle":{"es":"Consulta en la fuente qué combinaciones aplican.","en":"Check the source for eligible combinations."},"valor":4400,"moneda":"COP"},
+    {"titulo":{"es":"Integraciones 5 a 7 · Frecuente","en":"Integrations 5–7 · Frequent"},"detalle":{"es":"Consulta en la fuente qué combinaciones aplican.","en":"Check the source for eligible combinations."},"valor":4570,"moneda":"COP"},
+    {"titulo":{"es":"Integraciones 5 a 7 · Adulto mayor","en":"Integrations 5–7 · Older adult"},"detalle":{"es":"Sujeta a requisitos del perfil.","en":"Subject to profile eligibility."},"valor":4080,"moneda":"COP"},
+    {"titulo":{"es":"Integraciones 5 a 7 · Estudiantil","en":"Integrations 5–7 · Student"},"detalle":{"es":"Sujeta a requisitos del perfil.","en":"Subject to profile eligibility."},"valor":2350,"moneda":"COP"},
+    {"titulo":{"es":"Integraciones 5 a 7 · Persona con discapacidad","en":"Integrations 5–7 · Person with a disability"},"detalle":{"es":"Sujeta a requisitos del perfil.","en":"Subject to profile eligibility."},"valor":3470,"moneda":"COP"},
+    {"titulo":{"es":"Integraciones 5 a 7 · Al portador y eventual","en":"Integrations 5–7 · Bearer and occasional"},"detalle":{"es":"Consulta en la fuente qué combinaciones aplican.","en":"Check the source for eligible combinations."},"valor":5150,"moneda":"COP"},
+    {"titulo":{"es":"Integración 8 · Frecuente","en":"Integration 8 · Frequent"},"detalle":{"es":"Consulta en la fuente qué combinaciones aplican.","en":"Check the source for eligible combinations."},"valor":5320,"moneda":"COP"},
+    {"titulo":{"es":"Integración 8 · Adulto mayor","en":"Integration 8 · Older adult"},"detalle":{"es":"Sujeta a requisitos del perfil.","en":"Subject to profile eligibility."},"valor":4830,"moneda":"COP"},
+    {"titulo":{"es":"Integración 8 · Estudiantil","en":"Integration 8 · Student"},"detalle":{"es":"Sujeta a requisitos del perfil.","en":"Subject to profile eligibility."},"valor":3100,"moneda":"COP"},
+    {"titulo":{"es":"Integración 8 · Persona con discapacidad","en":"Integration 8 · Person with a disability"},"detalle":{"es":"Sujeta a requisitos del perfil.","en":"Subject to profile eligibility."},"valor":4220,"moneda":"COP"},
+    {"titulo":{"es":"Integración 8 · Al portador y eventual","en":"Integration 8 · Bearer and occasional"},"detalle":{"es":"Consulta en la fuente qué combinaciones aplican.","en":"Check the source for eligible combinations."},"valor":5900,"moneda":"COP"},
+    {"titulo":{"es":"Integraciones 9 y 10 · Frecuente","en":"Integrations 9–10 · Frequent"},"detalle":{"es":"Consulta en la fuente qué combinaciones aplican.","en":"Check the source for eligible combinations."},"valor":6070,"moneda":"COP"},
+    {"titulo":{"es":"Integraciones 9 y 10 · Adulto mayor","en":"Integrations 9–10 · Older adult"},"detalle":{"es":"Sujeta a requisitos del perfil.","en":"Subject to profile eligibility."},"valor":5580,"moneda":"COP"},
+    {"titulo":{"es":"Integraciones 9 y 10 · Estudiantil","en":"Integrations 9–10 · Student"},"detalle":{"es":"Sujeta a requisitos del perfil.","en":"Subject to profile eligibility."},"valor":3850,"moneda":"COP"},
+    {"titulo":{"es":"Integraciones 9 y 10 · Persona con discapacidad","en":"Integrations 9–10 · Person with a disability"},"detalle":{"es":"Sujeta a requisitos del perfil.","en":"Subject to profile eligibility."},"valor":4970,"moneda":"COP"},
+    {"titulo":{"es":"Integraciones 9 y 10 · Al portador y eventual","en":"Integrations 9–10 · Bearer and occasional"},"detalle":{"es":"Consulta en la fuente qué combinaciones aplican.","en":"Check the source for eligible combinations."},"valor":6650,"moneda":"COP"},
+    {"titulo":{"es":"Cable Arví · Estratos 1, 2 y 3","en":"Arví cable · Socioeconomic strata 1, 2 and 3"},"detalle":{"es":"Sujeta a domicilio y documentos; consulta los requisitos oficiales.","en":"Residence and documentation requirements apply; consult the official conditions."},"valor":3900,"moneda":"COP"},
+    {"titulo":{"es":"Cable Arví · Nacionales o Cívica personalizada","en":"Arví cable · Colombian nationals or personalized Cívica"},"detalle":{"es":"Consulta los requisitos de identificación oficiales.","en":"Check the official identification requirements."},"valor":11900,"moneda":"COP"},
+    {"id":"ARVI_GENERAL","titulo":{"es":"Cable Arví · Extranjeros o general","en":"Arví cable · Foreign visitors or general fare"},"detalle":{"es":"Consulta las condiciones oficiales.","en":"Check the official conditions."},"valor":26700,"moneda":"COP"}
+  ]
+}

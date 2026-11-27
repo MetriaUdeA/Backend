@@ -1,0 +1,12 @@
+{
+  "fuente": "https://www.metrodemedellin.gov.co/usuarios#horarios",
+  "fechaRevision": "2026-11-26",
+  "entradas": [
+    {"titulo":{"es":"Lunes a sábado · A, B, T-A, H, J, K, M, O, P, 1, 2","en":"Monday to Saturday · A, B, T-A, H, J, K, M, O, P, 1, 2"},"detalle":{"es":"04:30–23:00. Los últimos trenes salen de Niquía y La Estrella a las 22:40.","en":"04:30–23:00. The last trains leave Niquía and La Estrella at 22:40."}},
+    {"titulo":{"es":"Domingos y festivos · A, B, T-A, O, 1, 2","en":"Sundays and public holidays · A, B, T-A, O, 1, 2"},"detalle":{"es":"05:00–22:00. Últimos trenes desde Niquía y La Estrella a las 22:00.","en":"05:00–22:00. Last trains leave Niquía and La Estrella at 22:00."}},
+    {"titulo":{"es":"Domingos y festivos · K","en":"Sundays and public holidays · K"},"detalle":{"es":"08:30–22:00.","en":"08:30–22:00."}},
+    {"titulo":{"es":"Domingos y festivos · H, J, M, P","en":"Sundays and public holidays · H, J, M, P"},"detalle":{"es":"09:00–22:00.","en":"09:00–22:00."}},
+    {"titulo":{"es":"Lunes y miércoles a sábado · Cable Arví (L)","en":"Monday and Wednesday to Saturday · Arví cable (L)"},"detalle":{"es":"09:00–18:00. No presta servicio los martes.","en":"09:00–18:00. No service on Tuesdays."}},
+    {"titulo":{"es":"Domingos y festivos · Cable Arví (L)","en":"Sundays and public holidays · Arví cable (L)"},"detalle":{"es":"08:30–18:00. Consulta las excepciones en la fuente oficial.","en":"08:30–18:00. Check the official source for exceptions."}}
+  ]
+}
